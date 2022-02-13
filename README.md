@@ -45,8 +45,13 @@ Fortitude+13              Will +5           Reflex +1
 This mod is mainly focused on the “Enemy difficulty” settings. However, it does interfere with the “Enemy Stat Adjustment” setting as well, because the “Somewhat easier enemies” and the “Somewhat tougher enemies” options in the vanilla game give a bonus/penalty of +2 to enemy attack and AC (no bonuses to attributes). This mod replaces this bonus/penalty to AC and attacks with the value set in the "Settings.csv" file. Hence, with this mod by default, the monsters get +1 to AC and attack in the “Somewhat tougher enemies” option. Enemies get +3 to hit and AC if you are playing the game in the Hard difficulty settings (which sets “Enemy Stat Adjustment” to “Somewhat tougher enemies” and “Enemy difficulty” to “Strengthened”).
 
 --
+
 How to Install
+
 Download and install Unity Mod Manager﻿
+
 Download the mod
+
 Install the mod with Unity Mod Manager by dropping the "*.zip" file in the UMM.
+
 Run the game and make sure that the mod is active in UMM.
