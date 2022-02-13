@@ -1,5 +1,6 @@
 # BalancedDifficultySettings
 This is a Mod for Pathfinder Kingmaker
+
 Author: Gabriel A. Tiraboschi
 
 Before this mod when you select different options in the setting “Enemy difficulty”, the enemies in the game get +2AC and Attack Bonus, as well as +4 to all ability scores for each increase in the difficulty level (e.g., from Normal to Strengthened). If you give a monster +2 to AC and Attack Bonus and +4 to all ability scores, in reality, that gives the monsters +4 to hit your party and +4 to avoid your party’s attacks. I think that it is too much, and I always wanted more fine-tuning settings. That’s where I had the idea for this mod. With this mod, you can replace these bonuses. By default, this mod replaces the vanilla values to +1 to AC and Attack Bonus (instead of +2) and +2 to all ability scores (instead of +4). This gives monsters +2 to hit and to avoid attacks for each level of increase in the “Enemy difficulty”﻿ setting. However, you can change these values to whatever you like, just open the “Settings.csv” file with Excel or LibreOffice and change the values. However, I should note that I have not tested other values.
